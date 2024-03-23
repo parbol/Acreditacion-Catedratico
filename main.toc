@@ -74,179 +74,189 @@
 \contentsline {subsubsection}{\numberline {1.A.5.3}SUSY SEARCHES IN THE Z JETS MET FINAL STATE IN 7 TEV PP COLLISIONS WITH THE JET Z BALANCE METHOD}{27}{subsubsection.1.1.5.3}%
 \contentsline {subsubsection}{\numberline {1.A.5.4}SEARCHES FOR SUSY IN EVENTS WITH TWO OR MORE LEPTONS AT CMS}{42}{subsubsection.1.1.5.4}%
 \contentsline {subsubsection}{\numberline {1.A.5.5}SEARCH FOR BEYOND THE STANDARD MODEL PHYSICS IN MULTILEPTONIC AND PHOTONIC FINAL STATES WITH THE CMS DETECTOR}{70}{subsubsection.1.1.5.5}%
-\contentsline {subsubsection}{\numberline {1.A.5.6}Review of Supersymmetry Searches at 13 TeV with the CMS experiment}{103}{subsubsection.1.1.5.6}%
-\contentsline {subsubsection}{\numberline {1.A.5.7}Searches for BSM physics in the 2 leptons y MET final state}{108}{subsubsection.1.1.5.7}%
-\contentsline {subsubsection}{\numberline {1.A.5.8}Dark Matter at the LHC}{112}{subsubsection.1.1.5.8}%
-\contentsline {subsubsection}{\numberline {1.A.5.9}Application of muon tomography to the industry}{116}{subsubsection.1.1.5.9}%
-\contentsline {subsubsection}{\numberline {1.A.5.10}Precision timing with the CMS MIP Timing Detector}{118}{subsubsection.1.1.5.10}%
-\contentsline {subsubsection}{\numberline {1.A.5.11}Muography applied to the preventive maintenance of industrial equipment}{129}{subsubsection.1.1.5.11}%
-\contentsline {subsubsection}{\numberline {1.A.5.12}COMCHA: Computing Challanges for the HLLHC and beyond}{131}{subsubsection.1.1.5.12}%
-\contentsline {subsubsection}{\numberline {1.A.5.13}Timing for the CMS PhaseII Upgrade}{133}{subsubsection.1.1.5.13}%
-\contentsline {subsection}{\numberline {1.A.6}Contribuciones a seminarios}{136}{subsection.1.1.6}%
-\contentsline {subsubsection}{\numberline {1.A.6.1}CMS SUSY SEARCHES AT 13 TEV}{136}{subsubsection.1.1.6.1}%
-\contentsline {subsubsection}{\numberline {1.A.6.2}Comparación de estrategias de control epidemiológico basadas en simulaciones con agentes autónomos y énfasis en el impacto del uso de aplicaciones de rastreo}{140}{subsubsection.1.1.6.2}%
-\contentsline {subsubsection}{\numberline {1.A.6.3}MAINTENANCE OF CRITICAL INDUSTRIAL EQUIPMENT USING COSMIC MUON RADIATION (Zurich)}{145}{subsubsection.1.1.6.3}%
-\contentsline {subsubsection}{\numberline {1.A.6.4}MAINTENANCE OF CRITICAL INDUSTRIAL EQUIPMENT USING COSMIC MUON RADIATION (CIEMAT)}{148}{subsubsection.1.1.6.4}%
-\contentsline {subsubsection}{\numberline {1.A.6.5}SUSY SEARCHES WITH TWO OPPOSITE SIGN LEPTONS}{150}{subsubsection.1.1.6.5}%
-\contentsline {subsection}{\numberline {1.A.7}Otras méritos asociados a la calidad y difusión de resultados de la actividad investigadora}{152}{subsection.1.1.7}%
-\contentsline {subsubsection}{\numberline {1.A.7.1}Memorandum de la European Physical Society acerca de la evaluación de Físicos de Partículas Experimentales}{152}{subsubsection.1.1.7.1}%
-\contentsline {subsubsection}{\numberline {1.A.7.2}Carta de Filip Moorgart: coordinador de búsquedas de Supersimetría de CMS}{159}{subsubsection.1.1.7.2}%
-\contentsline {subsubsection}{\numberline {1.A.7.3}Carta de Wolfgang Adam: Physics Coordinator de CMS}{162}{subsubsection.1.1.7.3}%
-\contentsline {subsubsection}{\numberline {1.A.7.4}Otras contribuciones a conferencias cientificas}{166}{subsubsection.1.1.7.4}%
-\contentsline {paragraph}{\numberline {1.A.7.4.1}Poster: A software and computing prototype for CMS Muon System Alignment}{166}{paragraph.1.1.7.4.1}%
-\contentsline {paragraph}{\numberline {1.A.7.4.2}Muon Alignment in ATLAS and CMS}{169}{paragraph.1.1.7.4.2}%
-\contentsline {paragraph}{\numberline {1.A.7.4.3}Commissioning and Performance of the CMS detector}{173}{paragraph.1.1.7.4.3}%
-\contentsline {paragraph}{\numberline {1.A.7.4.4}CMS workshop at Fermilab, Comité científico}{182}{paragraph.1.1.7.4.4}%
-\contentsline {paragraph}{\numberline {1.A.7.4.5}CMS workshop at Ghent, Comité científico y charla Overview of TBT group}{184}{paragraph.1.1.7.4.5}%
-\contentsline {paragraph}{\numberline {1.A.7.4.6}CMS workshop at Vienna, Comité científico}{186}{paragraph.1.1.7.4.6}%
-\contentsline {paragraph}{\numberline {1.A.7.4.7}CMS workshop at Santander, Organizador del workshop}{188}{paragraph.1.1.7.4.7}%
-\contentsline {section}{\numberline {1.B}Calidad y número de proyectos y contratos de investigación}{190}{section.1.2}%
-\contentsline {subsection}{\numberline {1.B.1}Participación en proyectos de investigación y/o en contratos de I+D}{190}{subsection.1.2.1}%
-\contentsline {subsubsection}{\numberline {1.B.1.1}Integración y validación experimental de un demostrado tecnológico de un tomógrafo de muones con resolución temporal}{190}{subsubsection.1.2.1.1}%
-\contentsline {subsubsection}{\numberline {1.B.1.2}CENTRO DE PROCESADO DE DATOS DE CMS TIER-2 EN EL IFCA}{192}{subsubsection.1.2.1.2}%
-\contentsline {subsubsection}{\numberline {1.B.1.3}Actividades del IFCA para los upgrades de alta luminosidad del LHC: Inner Tracker y Endcap Timing Layer}{196}{subsubsection.1.2.1.3}%
-\contentsline {subsubsection}{\numberline {1.B.1.4}Algoritma de simulación ultra-rápida para aplicaciones industriales de tomografía muónica usando redes neuronales generativas adversarias}{198}{subsubsection.1.2.1.4}%
-\contentsline {subsubsection}{\numberline {1.B.1.5}CENTRO DE PROCESADO DE DATOS PARA EL LHC: TIER-2 PARA EL EXPERIMENTO CMS EN EL IFCA}{202}{subsubsection.1.2.1.5}%
-\contentsline {subsubsection}{\numberline {1.B.1.6}PARTICIPACIÓN EN EL EXPERIMENTO CMS DEL LHC: RUN2}{204}{subsubsection.1.2.1.6}%
-\contentsline {subsubsection}{\numberline {1.B.1.7}HIGH PT PHYSICS WITH CMS AND UPGRADES OF THE CMS BARREL PIXEL DETECTOR}{206}{subsubsection.1.2.1.7}%
-\contentsline {subsubsection}{\numberline {1.B.1.8}MEASUREMENTS OF HIGGS BOSON PROPERTIES AND SEARCHES FOR SUPERSYMMETRY WITH CMS}{208}{subsubsection.1.2.1.8}%
-\contentsline {subsubsection}{\numberline {1.B.1.9}SEARCH FOR NEW PHYSICS MEASUREMENTS OF THE HIGGS BOSON PROPERTIES WITH CMS}{210}{subsubsection.1.2.1.9}%
-\contentsline {subsubsection}{\numberline {1.B.1.10}XDC: EXTREME DATACLOUD}{212}{subsubsection.1.2.1.10}%
-\contentsline {subsection}{\numberline {1.B.2}Otros méritos relacionados con la calidad y número de proyectos y contratos de investigación}{214}{subsection.1.2.2}%
-\contentsline {subsubsection}{\numberline {1.B.2.1}Contrato postdoctoral ETH Octubre 2010 - Septiembre 2012}{214}{subsubsection.1.2.2.1}%
-\contentsline {subsubsection}{\numberline {1.B.2.2}Contrato postdoctoral ETH Octubre 2012 - Septiembre 2013}{216}{subsubsection.1.2.2.2}%
-\contentsline {subsubsection}{\numberline {1.B.2.3}Contrato postdoctoral ETH Octubre 2013 - Septiembre 2014}{218}{subsubsection.1.2.2.3}%
-\contentsline {subsubsection}{\numberline {1.B.2.4}Contrato postdoctoral ETH Octubre 2014 - Marzo 2016}{220}{subsubsection.1.2.2.4}%
-\contentsline {subsubsection}{\numberline {1.B.2.5}Contrato postdoctoral ETH Abril 2016 - Septiembre 2016}{222}{subsubsection.1.2.2.5}%
-\contentsline {subsubsection}{\numberline {1.B.2.6}Contrato postdoctoral ETH Octubre 2016 - Diciembre 2016}{224}{subsubsection.1.2.2.6}%
-\contentsline {subsubsection}{\numberline {1.B.2.7}Contrato postdoctoral ETH Enero 2017 - Febrero 2017}{226}{subsubsection.1.2.2.7}%
-\contentsline {subsubsection}{\numberline {1.B.2.8}Contrato Ramón y Cajal Marzo 2017}{228}{subsubsection.1.2.2.8}%
-\contentsline {subsubsection}{\numberline {1.B.2.9}Descripción de funciones en la ETH de Zurich}{240}{subsubsection.1.2.2.9}%
-\contentsline {subsubsection}{\numberline {1.B.2.10}Proyectos de investigación no aportados como mérito complementario (pre-doctorales)}{244}{subsubsection.1.2.2.10}%
-\contentsline {paragraph}{\numberline {1.B.2.10.1}Participación en los experimentos CMS y CDF}{244}{paragraph.1.2.2.10.1}%
-\contentsline {paragraph}{\numberline {1.B.2.10.2}Física en colisionadores hadrónicos (experimentos CMS y CDF)}{246}{paragraph.1.2.2.10.2}%
-\contentsline {section}{\numberline {1.C}Movilidad del profesorado}{248}{section.1.3}%
-\contentsline {subsection}{\numberline {1.C.1}Estancias en centros españoles y extranjeros}{248}{subsection.1.3.1}%
-\contentsline {subsubsection}{\numberline {1.C.1.1}Estancia en el Centro Europeo de Investigación de Partículas (CERN) Octubre 2010 - Febrero 2017}{248}{subsubsection.1.3.1.1}%
-\contentsline {subsection}{\numberline {1.C.2}Otros méritos relacionados con la movilidad del profesorado}{251}{subsection.1.3.2}%
-\contentsline {subsubsection}{\numberline {1.C.2.1}Estancia en el Centro Europeo de Investigación de Partículas (CERN) Junio 2006 - Agosto 2006}{251}{subsubsection.1.3.2.1}%
-\contentsline {subsubsection}{\numberline {1.C.2.2}Estancia en el Centro Europeo de Investigación de Partículas (CERN) Junio 2007 - Agosto 2007}{253}{subsubsection.1.3.2.2}%
-\contentsline {subsubsection}{\numberline {1.C.2.3}Estancia en el Centro Europeo de Investigación de Partículas (CERN) Marzo 2008 - Octubre 2009}{255}{subsubsection.1.3.2.3}%
-\contentsline {section}{\numberline {1.D}Otros méritos relacionados con la actividad investigadora}{257}{section.1.4}%
-\contentsline {subsection}{\numberline {1.D.1}Puestos de coordinación y liderazgo dentro de CMS}{257}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1.D.2}Referee de European Physics Journal C}{260}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1.D.3}Referee de Scientific Reports}{265}{subsection.1.4.3}%
-\contentsline {subsection}{\numberline {1.D.4}Participación en paneles de evaluación del plan nacional de I+D}{267}{subsection.1.4.4}%
-\contentsline {subsection}{\numberline {1.D.5}Participación en paneles de evaluación de la república argentina}{269}{subsection.1.4.5}%
-\contentsline {subsection}{\numberline {1.D.6}Certificado de sexenios de investigación}{271}{subsection.1.4.6}%
-\contentsline {chapter}{\numberline {2}Actividad docente}{273}{chapter.2}%
-\contentsline {section}{\numberline {2.A}Dedicación docente}{273}{section.2.1}%
-\contentsline {subsection}{\numberline {2.A.1}Puestos docentes ocupados}{273}{subsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.A.1.1}Profesor asistente en la ETH Zurich (2010-2014)}{273}{subsubsection.2.1.1.1}%
-\contentsline {subsubsection}{\numberline {2.A.1.2}Profesor asistente en la ETH Zurich (2014-2017)}{273}{subsubsection.2.1.1.2}%
-\contentsline {subsubsection}{\numberline {2.A.1.3}Ramón y Cajal y profesor titular en la Universidad de Cantabria (2017-presente)}{273}{subsubsection.2.1.1.3}%
-\contentsline {subsubsection}{\numberline {2.A.1.4}Profesor titular en la universidad de cantabria 2023-2024}{273}{subsubsection.2.1.1.4}%
-\contentsline {subsection}{\numberline {2.A.2}Tesis doctorales dirigidas}{273}{subsection.2.1.2}%
-\contentsline {subsubsection}{\numberline {2.A.2.1}Búsqueda de materia oscura en asociación con pares de quarks top en el experimento CMS}{273}{subsubsection.2.1.2.1}%
-\contentsline {subsubsection}{\numberline {2.A.2.2}Búsqueda de materia oscura en asociación con quarks top en el estado final dileptónico a sqrt(13) TeV}{273}{subsubsection.2.1.2.2}%
-\contentsline {subsubsection}{\numberline {2.A.2.3}Búsqueda de partículas de alta vida media en su desintegración a vértices dileptónicos desplazados en colisiones proton-proton a sqrt(s) = 13 TeV con el detector CMS}{273}{subsubsection.2.1.2.3}%
-\contentsline {subsubsection}{\numberline {2.A.2.4}Tomografía muónica de alta resolución aplicada a la evaluación de la densidad de materiales en el contexto de la industria, la ingeniería civil y la hidrología.}{274}{subsubsection.2.1.2.4}%
-\contentsline {subsection}{\numberline {2.A.3}Dirección de proyectos fin de carrera, tesinas, trabajo fin de máster, máster, DEA, etc}{274}{subsection.2.1.3}%
-\contentsline {subsubsection}{\numberline {2.A.3.1}TFG: APLICACIÓN A FÍSICA DE PARTÍCULAS DE MÉTODOS DE CLASIFICACIÓN MULTIDIMENSIONALES EN PRESENCIA DE ERRORES SISTEMÁTICOS}{274}{subsubsection.2.1.3.1}%
-\contentsline {subsubsection}{\numberline {2.A.3.2}TFG: Discriminación de eventos de producción de pares de quarks top del Modelo Estándar, de la producción de materia oscura en asociación con un par de quark tops tilizando una red neuronal artificial}{278}{subsubsection.2.1.3.2}%
-\contentsline {subsubsection}{\numberline {2.A.3.3}TFG: Simulaciones realistas de colisiones protón - protón en el Large Hadron Collider LHC usando una red convolucional extractora de correlaciones locales}{282}{subsubsection.2.1.3.3}%
-\contentsline {subsubsection}{\numberline {2.A.3.4}TFM: Búsquedas de s-top supersimétrico en el LHC del CERN y proyecciones para el HL-LHC}{286}{subsubsection.2.1.3.4}%
-\contentsline {subsubsection}{\numberline {2.A.3.5}TFM: Developement of new background rejection and estimation methods in a search for BSM physics with two leptons, jets and missing transverse momentum using the CMS detector}{290}{subsubsection.2.1.3.5}%
-\contentsline {subsubsection}{\numberline {2.A.3.6}TFM: Higgs production cross section at 13 TeV and prospects on BSM searches for the HL-LHC}{292}{subsubsection.2.1.3.6}%
-\contentsline {subsubsection}{\numberline {2.A.3.7}TFM: Mejora de la discriminación de señal y fondo en una búsqueda de materia oscura producida en asociación con un par de quarks top- antitop}{296}{subsubsection.2.1.3.7}%
-\contentsline {subsubsection}{\numberline {2.A.3.8}TFM: Desarrollo de un entorno de análisis estadístico en el contexto de la muografía aplicada a la industria}{300}{subsubsection.2.1.3.8}%
-\contentsline {subsection}{\numberline {2.A.4}Otros méritos relacionados con la actividad docente}{304}{subsection.2.1.4}%
-\contentsline {subsubsection}{\numberline {2.A.4.1}Profesor en el CMS Data Analysis School in Pisa}{304}{subsubsection.2.1.4.1}%
-\contentsline {subsubsection}{\numberline {2.A.4.2}Profesor en el First Computing Challenges (COMCHA) school}{314}{subsubsection.2.1.4.2}%
-\contentsline {subsubsection}{\numberline {2.A.4.3}Participación en tribunales de trabajos de fin de grado}{316}{subsubsection.2.1.4.3}%
-\contentsline {subsubsection}{\numberline {2.A.4.4}Participación en tribunales de trabajos de fin de máster}{322}{subsubsection.2.1.4.4}%
-\contentsline {subsubsection}{\numberline {2.A.4.5}Participación en tribunales de tesis doctorales}{326}{subsubsection.2.1.4.5}%
-\contentsline {subsubsection}{\numberline {2.A.4.6}Tesis doctorales siendo dirigidas en la actualidad}{330}{subsubsection.2.1.4.6}%
-\contentsline {paragraph}{\numberline {2.A.4.6.1}Búsqueda de materia oscura en asociación con pares top-antitop o single top en el detector CMS con la luminosidad total del Run 2, Cedric Prieels}{330}{paragraph.2.1.4.6.1}%
-\contentsline {paragraph}{\numberline {2.A.4.6.2}Búsqueda de partículas con alto tiempo de vida en el detector CMS utilizando técnicas de inteligencia artificial, Celia Fernández}{332}{paragraph.2.1.4.6.2}%
-\contentsline {paragraph}{\numberline {2.A.4.6.3}Desarrollo de la tecnología de tomografia muónica en el contexto del mantenimiento de equipos industriales, Aitor Orio}{334}{paragraph.2.1.4.6.3}%
-\contentsline {subsubsection}{\numberline {2.A.4.7}Trabajos de Fin de Máster siendo dirigidos en la actualidad}{336}{subsubsection.2.1.4.7}%
-\contentsline {paragraph}{\numberline {2.A.4.7.1}Estudio de técnicas de computación cuántica para la resolución de problemas de optimización}{336}{paragraph.2.1.4.7.1}%
-\contentsline {paragraph}{\numberline {2.A.4.7.2}Técnicas de aprendizaje automático profundo para la asignación de momento a muones altamente energéticos en el experimento CMS del LHC}{338}{paragraph.2.1.4.7.2}%
-\contentsline {subsubsection}{\numberline {2.A.4.8}Divulgación}{340}{subsubsection.2.1.4.8}%
-\contentsline {paragraph}{\numberline {2.A.4.8.1}Café con Ciencia: Tomografía muónica: unha ollada ao interior da materia}{340}{paragraph.2.1.4.8.1}%
-\contentsline {paragraph}{\numberline {2.A.4.8.2}Tardes Con Ciencia: Un universo supersimétrico: explorando las fronteras de la física de partículas}{342}{paragraph.2.1.4.8.2}%
-\contentsline {paragraph}{\numberline {2.A.4.8.3}Expandiendo la Ciencia: siete charlas en instutos y colegios de Cantabria}{344}{paragraph.2.1.4.8.3}%
-\contentsline {paragraph}{\numberline {2.A.4.8.4}Participación en la noche de los investigadores durante los años 2017, 2018, y 2019}{346}{paragraph.2.1.4.8.4}%
-\contentsline {paragraph}{\numberline {2.A.4.8.5}Conferencia en el Ateneo de Santander: Un universo supersimétrico: explorando las fronteras de la física de partículas}{350}{paragraph.2.1.4.8.5}%
-\contentsline {paragraph}{\numberline {2.A.4.8.6}Pint of Science: Un universo extraño}{352}{paragraph.2.1.4.8.6}%
-\contentsline {paragraph}{\numberline {2.A.4.8.7}Las nubes de la Física, Aquae Talent Hub}{354}{paragraph.2.1.4.8.7}%
-\contentsline {paragraph}{\numberline {2.A.4.8.8}La gravedad de lo invisible, Aquae Campus 2018}{357}{paragraph.2.1.4.8.8}%
-\contentsline {section}{\numberline {2.B}Calidad de la actividad docente}{362}{section.2.2}%
-\contentsline {subsection}{\numberline {2.B.1}Evaluaciones positivas de su actividad}{362}{subsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.B.1.1}Evaluación de la calidad docente en la Universidad de Cantabria}{362}{subsubsection.2.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.B.1.2}Evaluación de la calidad docente en la ETH Zurich}{364}{subsubsection.2.2.1.2}%
-\contentsline {subsection}{\numberline {2.B.2}Material docente original y publicaciones docentes}{367}{subsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.B.2.1}Apuntés para la asignatura Estadística para la Ciencia de Datos del Máster de Ciencia de Datos de la Universidad de Cantabria y Universidad Internacional Menéndez Pelayo}{367}{subsubsection.2.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.B.2.2}Long Exercise for the CMS Data Analysis School in PISA: SUSY with leptons: Z+Jets+MET: The JZB analysis}{371}{subsubsection.2.2.2.2}%
-\contentsline {subsection}{\numberline {2.B.3}Participación en proyectos de innovación docente}{374}{subsection.2.2.3}%
-\contentsline {subsection}{\numberline {2.B.4}Otros méritos relacionados con calidad de la actividad docente}{374}{subsection.2.2.4}%
-\contentsline {section}{\numberline {2.C}Calidad de la formación docente}{374}{section.2.3}%
-\contentsline {subsection}{\numberline {2.C.1}Participación como ponente en congresos orientados a la formación docente universitaria}{374}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.C.2}Participación como asistente en congresos orientados a la formación docente universitaria}{374}{subsection.2.3.2}%
-\contentsline {subsection}{\numberline {2.C.3}Estancias en centros docentes}{374}{subsection.2.3.3}%
-\contentsline {subsection}{\numberline {2.C.4}Otros méritos relacionados con calidad de la formación docente}{374}{subsection.2.3.4}%
-\contentsline {subsubsection}{\numberline {2.C.4.1}Curso de comunicación efectiva Universidad de Cantabria}{374}{subsubsection.2.3.4.1}%
-\contentsline {subsubsection}{\numberline {2.C.4.2}Curso de implementación práctica de estrategias de innovación docente}{376}{subsubsection.2.3.4.2}%
-\contentsline {chapter}{\numberline {3}Transferencia/Actividad Profesional}{379}{chapter.3}%
-\contentsline {section}{\numberline {3.A}Calidad de la transferencia de los resultados}{379}{section.3.1}%
-\contentsline {subsection}{\numberline {3.A.1}Patentes y productos con registro de propiedad intelectual}{379}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.A.2}Transferencia de conocimiento al sector productivo}{379}{subsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.A.2.1}Certificado expedido por el director ejecutivo de Muon Systems}{379}{subsubsection.3.1.2.1}%
-\contentsline {subsection}{\numberline {3.A.3}Contratos de transferencia o prestación de servicios profesionales con empresas, Administraciones públicas y otras instituciones suscritos al amparo del artículo 83 de la Ley orgánica 6/2001, de Universidades y Contratos Colaborativos.}{381}{subsection.3.1.3}%
-\contentsline {subsubsection}{\numberline {3.A.3.1}Certificado de proyectos: DESARROLLO DE UN SISTEMA DE ADQUISICIÓN DE DATOS INTELIGENTE (DAQ) PARA LA CARACTERIZACIÓN, CORRECCIÓN Y OBTENCIÓN DE TRAZAS EN DETECTORES DE MUONES de la Universidad de Cantabria}{381}{subsubsection.3.1.3.1}%
-\contentsline {subsection}{\numberline {3.A.4}Otros méritos relacionados con la calidad de la transferencia de resultados}{383}{subsection.3.1.4}%
-\contentsline {subsubsection}{\numberline {3.A.4.1}Carta de designación como participante en el meeting: Technical Meeting on Non-Destructive Testing Using Muon Radiography: Present Status and Emerging Applications}{383}{subsubsection.3.1.4.1}%
-\contentsline {subsubsection}{\numberline {3.A.4.2}E-mail que muestra mi participación como editor de la sección de aplicaciones industriales en el documento de la IAEA}{385}{subsubsection.3.1.4.2}%
-\contentsline {subsubsection}{\numberline {3.A.4.3}Certificado de concesión de contrato para realización de doctorado industrial}{389}{subsubsection.3.1.4.3}%
-\contentsline {section}{\numberline {3.B}Calidad y dedicación a actividades profesionales}{392}{section.3.2}%
-\contentsline {subsection}{\numberline {3.B.1}Puestos ocupados y dedicación}{392}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.B.2}Evaluaciones positivas de su actividad}{392}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.B.3}Otros méritos relacionados con la actividad profesional}{392}{subsection.3.2.3}%
-\contentsline {chapter}{\numberline {4}Formación académica}{393}{chapter.4}%
-\contentsline {section}{\numberline {4.A}Calidad de la formación predoctoral}{393}{section.4.1}%
-\contentsline {subsection}{\numberline {4.A.1}Titulación universitaria}{393}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.A.2}Tesis doctoral}{395}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.A.3}Otros títulos}{397}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.A.4}Becas}{397}{subsection.4.1.4}%
-\contentsline {subsubsection}{\numberline {4.A.4.1}Beca de Formación del Personal Universitario (FPU) (BECA RECHAZADA VOLUNTARIAMENTE POR HABER RECIBIDO DE FORMA SIMULTANEA OTRA MAS BENEFICIOSA)}{397}{subsubsection.4.1.4.1}%
-\contentsline {subsubsection}{\numberline {4.A.4.2}Becas predoctorales para el desarrollo de tesis doctorales en líneas de investigación con interés para el sector industrial.}{399}{subsubsection.4.1.4.2}%
-\contentsline {subsubsection}{\numberline {4.A.4.3}Beca de introducción a la investigación para alumnos de último curso de carrera}{407}{subsubsection.4.1.4.3}%
-\contentsline {subsubsection}{\numberline {4.A.4.4}Beca de Colaboración con grupos de Investigación.}{409}{subsubsection.4.1.4.4}%
-\contentsline {subsubsection}{\numberline {4.A.4.5}Beca de introducción a la investigación para alumnos de penúltimo curso de carrera.}{411}{subsubsection.4.1.4.5}%
-\contentsline {subsection}{\numberline {4.A.5}Premios}{413}{subsection.4.1.5}%
-\contentsline {subsubsection}{\numberline {4.A.5.1}Premio de la colaboración CMS Achievement Award}{413}{subsubsection.4.1.5.1}%
-\contentsline {subsubsection}{\numberline {4.A.5.2}Premio extraordinario de doctorado}{419}{subsubsection.4.1.5.2}%
-\contentsline {subsubsection}{\numberline {4.A.5.3}Premio extraordinario de fin de carrera}{422}{subsubsection.4.1.5.3}%
-\contentsline {subsubsection}{\numberline {4.A.5.4}Premio extraordinario de bachillerato unificado polivalente}{424}{subsubsection.4.1.5.4}%
-\contentsline {subsubsection}{\numberline {4.A.5.5}Mención de honor en la Olimpiada de Física Nacional}{426}{subsubsection.4.1.5.5}%
-\contentsline {subsubsection}{\numberline {4.A.5.6}Ganador de la Olimpiada de Física Local en Cantabria}{428}{subsubsection.4.1.5.6}%
-\contentsline {subsection}{\numberline {4.A.6}Otros méritos asociados a la formación académica}{430}{subsection.4.1.6}%
-\contentsline {subsubsection}{\numberline {4.A.6.1}Estancia en el Centro Europeo de Investigación de Partículas (CERN) Junio - Agosto 2006}{430}{subsubsection.4.1.6.1}%
-\contentsline {subsubsection}{\numberline {4.A.6.2}Estancia en el Centro Europeo de Investigación de Partículas (CERN) Junio - Agosto 2007}{432}{subsubsection.4.1.6.2}%
-\contentsline {subsubsection}{\numberline {4.A.6.3}Estancia en el Centro Europeo de Investigación de Partículas (CERN) Marzo 2008 - Octubre 2009}{434}{subsubsection.4.1.6.3}%
-\contentsline {subsubsection}{\numberline {4.A.6.4}Mención de calidad del programa de doctorado}{436}{subsubsection.4.1.6.4}%
-\contentsline {section}{\numberline {4.B}Calidad de la formación posdoctoral}{444}{section.4.2}%
-\contentsline {subsection}{\numberline {4.B.1}Becas posdoctorales}{444}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.B.2}Otros méritos asociados a la calidad de la formación}{444}{subsection.4.2.2}%
-\contentsline {section}{\numberline {4.C}Otros méritos asociados a la formación}{444}{section.4.3}%
-\contentsline {chapter}{\numberline {5}EXPERIENCIA EN GESTIÓN Y ADMINISTRACIÓN EDUCATIVA}{445}{chapter.5}%
-\contentsline {section}{\numberline {5.A}Desempeño de cargos unipersonales en las universidades u organismos públicos de investigación durante al menos un año}{445}{section.5.1}%
-\contentsline {section}{\numberline {5.B}Desempeño de puestos en el entorno educativo, científico o tecnológico dentro de la Administración General del Estado o de las Comunidades Autónomas durante, al menos, un año}{445}{section.5.2}%
-\contentsline {section}{\numberline {5.C}Otros méritos relacionados con la experiencia en gestión y administración}{445}{section.5.3}%
-\contentsline {subsection}{\numberline {5.C.1}Nombramiento como vice-director del departamento de física moderna de la Universidad de Cantabria}{445}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.C.2}Nombramiento como miembro de la Junta de Facultad de la facultad de ciencias de la Universidad de Cantabria}{447}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.C.3}Nombramiento como miembro de la comisión de calidad del grado de física en la Universidad de Cantabria}{449}{subsection.5.3.3}%
-\contentsline {subsection}{\numberline {5.C.4}Nombramiento Tribunal de Profesor Contratado Doctor}{451}{subsection.5.3.4}%
-\contentsline {subsection}{\numberline {5.C.5}Representante del Instituto de Física de Cantabria en el Institutional Board del MTD}{453}{subsection.5.3.5}%
-\contentsline {subsection}{\numberline {5.C.6}Representante de España en el Financial Board del MTD}{455}{subsection.5.3.6}%
+\contentsline {subsubsection}{\numberline {1.A.5.6}Review of Supersymmetry Searches at 13 TeV with the CMS experiment}{70}{subsubsection.1.1.5.6}%
+\contentsline {subsubsection}{\numberline {1.A.5.7}Searches for BSM physics in the 2 leptons y MET final state}{70}{subsubsection.1.1.5.7}%
+\contentsline {subsubsection}{\numberline {1.A.5.8}Dark Matter at the LHC}{74}{subsubsection.1.1.5.8}%
+\contentsline {subsubsection}{\numberline {1.A.5.9}Application of muon tomography to the industry}{74}{subsubsection.1.1.5.9}%
+\contentsline {subsubsection}{\numberline {1.A.5.10}Precision timing with the CMS MIP Timing Detector}{76}{subsubsection.1.1.5.10}%
+\contentsline {subsubsection}{\numberline {1.A.5.11}Muography applied to the preventive maintenance of industrial equipment}{76}{subsubsection.1.1.5.11}%
+\contentsline {subsubsection}{\numberline {1.A.5.12}COMCHA: Computing Challanges for the HLLHC and beyond}{78}{subsubsection.1.1.5.12}%
+\contentsline {subsubsection}{\numberline {1.A.5.13}Timing for the CMS PhaseII Upgrade}{80}{subsubsection.1.1.5.13}%
+\contentsline {subsubsection}{\numberline {1.A.5.14}Report from the SUSY group}{80}{subsubsection.1.1.5.14}%
+\contentsline {subsubsection}{\numberline {1.A.5.15}Status from the SUSY PAG}{80}{subsubsection.1.1.5.15}%
+\contentsline {subsubsection}{\numberline {1.A.5.16}A proposal of standard model background requests for the SUSY group}{80}{subsubsection.1.1.5.16}%
+\contentsline {subsubsection}{\numberline {1.A.5.17}Overview of the TBT group}{80}{subsubsection.1.1.5.17}%
+\contentsline {subsubsection}{\numberline {1.A.5.18}The TBT plans for legacy and plans for combinations}{80}{subsubsection.1.1.5.18}%
+\contentsline {subsubsection}{\numberline {1.A.5.19}Role of the AI in the industrial applications of Muography}{80}{subsubsection.1.1.5.19}%
+\contentsline {subsubsection}{\numberline {1.A.5.20}Muography applications to the industrial sector}{80}{subsubsection.1.1.5.20}%
+\contentsline {subsubsection}{\numberline {1.A.5.21}Ultra-fast muon tomography simulations using Adversarial Neural Networks}{80}{subsubsection.1.1.5.21}%
+\contentsline {subsubsection}{\numberline {1.A.5.22}Use of Generative Adversarial Neural Networks in Muography}{80}{subsubsection.1.1.5.22}%
+\contentsline {subsubsection}{\numberline {1.A.5.23}Use of Machine Learning techniques for muography applied to industrial applications}{81}{subsubsection.1.1.5.23}%
+\contentsline {subsection}{\numberline {1.A.6}Contribuciones a seminarios}{81}{subsection.1.1.6}%
+\contentsline {subsubsection}{\numberline {1.A.6.1}CMS SUSY SEARCHES AT 13 TEV}{81}{subsubsection.1.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.A.6.2}Comparación de estrategias de control epidemiológico basadas en simulaciones con agentes autónomos y énfasis en el impacto del uso de aplicaciones de rastreo}{85}{subsubsection.1.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.A.6.3}MAINTENANCE OF CRITICAL INDUSTRIAL EQUIPMENT USING COSMIC MUON RADIATION (Zurich)}{90}{subsubsection.1.1.6.3}%
+\contentsline {subsubsection}{\numberline {1.A.6.4}MAINTENANCE OF CRITICAL INDUSTRIAL EQUIPMENT USING COSMIC MUON RADIATION (CIEMAT)}{93}{subsubsection.1.1.6.4}%
+\contentsline {subsubsection}{\numberline {1.A.6.5}SUSY SEARCHES WITH TWO OPPOSITE SIGN LEPTONS}{95}{subsubsection.1.1.6.5}%
+\contentsline {subsection}{\numberline {1.A.7}Otras méritos asociados a la calidad y difusión de resultados de la actividad investigadora}{97}{subsection.1.1.7}%
+\contentsline {subsubsection}{\numberline {1.A.7.1}Memorandum de la European Physical Society acerca de la evaluación de Físicos de Partículas Experimentales}{97}{subsubsection.1.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.A.7.2}Carta de Filip Moorgart: coordinador de búsquedas de Supersimetría de CMS}{104}{subsubsection.1.1.7.2}%
+\contentsline {subsubsection}{\numberline {1.A.7.3}Carta de Wolfgang Adam: Physics Coordinator de CMS}{107}{subsubsection.1.1.7.3}%
+\contentsline {subsubsection}{\numberline {1.A.7.4}Otras contribuciones a conferencias cientificas}{111}{subsubsection.1.1.7.4}%
+\contentsline {paragraph}{\numberline {1.A.7.4.1}Poster: A software and computing prototype for CMS Muon System Alignment}{111}{paragraph.1.1.7.4.1}%
+\contentsline {paragraph}{\numberline {1.A.7.4.2}Muon Alignment in ATLAS and CMS}{114}{paragraph.1.1.7.4.2}%
+\contentsline {paragraph}{\numberline {1.A.7.4.3}Commissioning and Performance of the CMS detector}{118}{paragraph.1.1.7.4.3}%
+\contentsline {paragraph}{\numberline {1.A.7.4.4}CMS workshop at Fermilab, Comité científico}{127}{paragraph.1.1.7.4.4}%
+\contentsline {paragraph}{\numberline {1.A.7.4.5}CMS workshop at Ghent, Comité científico y charla Overview of TBT group}{129}{paragraph.1.1.7.4.5}%
+\contentsline {paragraph}{\numberline {1.A.7.4.6}CMS workshop at Vienna, Comité científico}{131}{paragraph.1.1.7.4.6}%
+\contentsline {paragraph}{\numberline {1.A.7.4.7}CMS workshop at Santander, Organizador del workshop}{133}{paragraph.1.1.7.4.7}%
+\contentsline {section}{\numberline {1.B}Calidad y número de proyectos y contratos de investigación}{135}{section.1.2}%
+\contentsline {subsection}{\numberline {1.B.1}Participación en proyectos de investigación y/o en contratos de I+D}{135}{subsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.B.1.1}Integración y validación experimental de un demostrado tecnológico de un tomógrafo de muones con resolución temporal}{135}{subsubsection.1.2.1.1}%
+\contentsline {subsubsection}{\numberline {1.B.1.2}CENTRO DE PROCESADO DE DATOS DE CMS TIER-2 EN EL IFCA}{137}{subsubsection.1.2.1.2}%
+\contentsline {subsubsection}{\numberline {1.B.1.3}Actividades del IFCA para los upgrades de alta luminosidad del LHC: Inner Tracker y Endcap Timing Layer}{141}{subsubsection.1.2.1.3}%
+\contentsline {subsubsection}{\numberline {1.B.1.4}Algoritma de simulación ultra-rápida para aplicaciones industriales de tomografía muónica usando redes neuronales generativas adversarias}{143}{subsubsection.1.2.1.4}%
+\contentsline {subsubsection}{\numberline {1.B.1.5}CENTRO DE PROCESADO DE DATOS PARA EL LHC: TIER-2 PARA EL EXPERIMENTO CMS EN EL IFCA}{147}{subsubsection.1.2.1.5}%
+\contentsline {subsubsection}{\numberline {1.B.1.6}PARTICIPACIÓN EN EL EXPERIMENTO CMS DEL LHC: RUN2}{149}{subsubsection.1.2.1.6}%
+\contentsline {subsubsection}{\numberline {1.B.1.7}HIGH PT PHYSICS WITH CMS AND UPGRADES OF THE CMS BARREL PIXEL DETECTOR}{151}{subsubsection.1.2.1.7}%
+\contentsline {subsubsection}{\numberline {1.B.1.8}MEASUREMENTS OF HIGGS BOSON PROPERTIES AND SEARCHES FOR SUPERSYMMETRY WITH CMS}{153}{subsubsection.1.2.1.8}%
+\contentsline {subsubsection}{\numberline {1.B.1.9}SEARCH FOR NEW PHYSICS MEASUREMENTS OF THE HIGGS BOSON PROPERTIES WITH CMS}{155}{subsubsection.1.2.1.9}%
+\contentsline {subsubsection}{\numberline {1.B.1.10}XDC: EXTREME DATACLOUD}{157}{subsubsection.1.2.1.10}%
+\contentsline {subsection}{\numberline {1.B.2}Otros méritos relacionados con la calidad y número de proyectos y contratos de investigación}{159}{subsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.B.2.1}Contrato postdoctoral ETH Octubre 2010 - Septiembre 2012}{159}{subsubsection.1.2.2.1}%
+\contentsline {subsubsection}{\numberline {1.B.2.2}Contrato postdoctoral ETH Octubre 2012 - Septiembre 2013}{161}{subsubsection.1.2.2.2}%
+\contentsline {subsubsection}{\numberline {1.B.2.3}Contrato postdoctoral ETH Octubre 2013 - Septiembre 2014}{163}{subsubsection.1.2.2.3}%
+\contentsline {subsubsection}{\numberline {1.B.2.4}Contrato postdoctoral ETH Octubre 2014 - Marzo 2016}{165}{subsubsection.1.2.2.4}%
+\contentsline {subsubsection}{\numberline {1.B.2.5}Contrato postdoctoral ETH Abril 2016 - Septiembre 2016}{167}{subsubsection.1.2.2.5}%
+\contentsline {subsubsection}{\numberline {1.B.2.6}Contrato postdoctoral ETH Octubre 2016 - Diciembre 2016}{169}{subsubsection.1.2.2.6}%
+\contentsline {subsubsection}{\numberline {1.B.2.7}Contrato postdoctoral ETH Enero 2017 - Febrero 2017}{171}{subsubsection.1.2.2.7}%
+\contentsline {subsubsection}{\numberline {1.B.2.8}Contrato Ramón y Cajal Marzo 2017}{173}{subsubsection.1.2.2.8}%
+\contentsline {subsubsection}{\numberline {1.B.2.9}Descripción de funciones en la ETH de Zurich}{185}{subsubsection.1.2.2.9}%
+\contentsline {subsubsection}{\numberline {1.B.2.10}Proyectos de investigación no aportados como mérito complementario (pre-doctorales)}{189}{subsubsection.1.2.2.10}%
+\contentsline {paragraph}{\numberline {1.B.2.10.1}Participación en los experimentos CMS y CDF}{189}{paragraph.1.2.2.10.1}%
+\contentsline {paragraph}{\numberline {1.B.2.10.2}Física en colisionadores hadrónicos (experimentos CMS y CDF)}{191}{paragraph.1.2.2.10.2}%
+\contentsline {section}{\numberline {1.C}Movilidad del profesorado}{193}{section.1.3}%
+\contentsline {subsection}{\numberline {1.C.1}Estancias en centros españoles y extranjeros}{193}{subsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.C.1.1}Estancia en el Centro Europeo de Investigación de Partículas (CERN) Octubre 2010 - Febrero 2017}{193}{subsubsection.1.3.1.1}%
+\contentsline {subsection}{\numberline {1.C.2}Otros méritos relacionados con la movilidad del profesorado}{196}{subsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.C.2.1}Estancia en el Centro Europeo de Investigación de Partículas (CERN) Junio 2006 - Agosto 2006}{196}{subsubsection.1.3.2.1}%
+\contentsline {subsubsection}{\numberline {1.C.2.2}Estancia en el Centro Europeo de Investigación de Partículas (CERN) Junio 2007 - Agosto 2007}{198}{subsubsection.1.3.2.2}%
+\contentsline {subsubsection}{\numberline {1.C.2.3}Estancia en el Centro Europeo de Investigación de Partículas (CERN) Marzo 2008 - Octubre 2009}{200}{subsubsection.1.3.2.3}%
+\contentsline {section}{\numberline {1.D}Otros méritos relacionados con la actividad investigadora}{202}{section.1.4}%
+\contentsline {subsection}{\numberline {1.D.1}Puestos de coordinación y liderazgo dentro de CMS}{202}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.D.2}Referee de European Physics Journal C}{205}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.D.3}Referee de Scientific Reports}{210}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.D.4}Participación en paneles de evaluación del plan nacional de I+D}{212}{subsection.1.4.4}%
+\contentsline {subsection}{\numberline {1.D.5}Participación en paneles de evaluación de la república argentina}{214}{subsection.1.4.5}%
+\contentsline {subsection}{\numberline {1.D.6}Certificado de sexenios de investigación}{216}{subsection.1.4.6}%
+\contentsline {chapter}{\numberline {2}Actividad docente}{219}{chapter.2}%
+\contentsline {section}{\numberline {2.A}Dedicación docente}{219}{section.2.1}%
+\contentsline {subsection}{\numberline {2.A.1}Puestos docentes ocupados}{219}{subsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.A.1.1}Profesor asistente en la ETH Zurich (2010-2014)}{219}{subsubsection.2.1.1.1}%
+\contentsline {subsubsection}{\numberline {2.A.1.2}Profesor asistente en la ETH Zurich (2014-2017)}{219}{subsubsection.2.1.1.2}%
+\contentsline {subsubsection}{\numberline {2.A.1.3}Ramón y Cajal y profesor titular en la Universidad de Cantabria (2017-presente)}{219}{subsubsection.2.1.1.3}%
+\contentsline {subsubsection}{\numberline {2.A.1.4}Profesor titular en la universidad de cantabria 2023-2024}{219}{subsubsection.2.1.1.4}%
+\contentsline {subsection}{\numberline {2.A.2}Tesis doctorales dirigidas}{219}{subsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.A.2.1}Búsqueda de materia oscura en asociación con pares de quarks top en el experimento CMS}{219}{subsubsection.2.1.2.1}%
+\contentsline {subsubsection}{\numberline {2.A.2.2}Búsqueda de materia oscura en asociación con quarks top en el estado final dileptónico a sqrt(13) TeV}{219}{subsubsection.2.1.2.2}%
+\contentsline {subsubsection}{\numberline {2.A.2.3}Búsqueda de partículas de alta vida media en su desintegración a vértices dileptónicos desplazados en colisiones proton-proton a sqrt(s) = 13 TeV con el detector CMS}{219}{subsubsection.2.1.2.3}%
+\contentsline {subsubsection}{\numberline {2.A.2.4}Tomografía muónica de alta resolución aplicada a la evaluación de la densidad de materiales en el contexto de la industria, la ingeniería civil y la hidrología.}{220}{subsubsection.2.1.2.4}%
+\contentsline {subsection}{\numberline {2.A.3}Dirección de proyectos fin de carrera, tesinas, trabajo fin de máster, máster, DEA, etc}{220}{subsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.A.3.1}TFG: APLICACIÓN A FÍSICA DE PARTÍCULAS DE MÉTODOS DE CLASIFICACIÓN MULTIDIMENSIONALES EN PRESENCIA DE ERRORES SISTEMÁTICOS}{220}{subsubsection.2.1.3.1}%
+\contentsline {subsubsection}{\numberline {2.A.3.2}TFG: Discriminación de eventos de producción de pares de quarks top del Modelo Estándar, de la producción de materia oscura en asociación con un par de quark tops tilizando una red neuronal artificial}{224}{subsubsection.2.1.3.2}%
+\contentsline {subsubsection}{\numberline {2.A.3.3}TFG: Simulaciones realistas de colisiones protón - protón en el Large Hadron Collider LHC usando una red convolucional extractora de correlaciones locales}{228}{subsubsection.2.1.3.3}%
+\contentsline {subsubsection}{\numberline {2.A.3.4}TFM: Búsquedas de s-top supersimétrico en el LHC del CERN y proyecciones para el HL-LHC}{232}{subsubsection.2.1.3.4}%
+\contentsline {subsubsection}{\numberline {2.A.3.5}TFM: Developement of new background rejection and estimation methods in a search for BSM physics with two leptons, jets and missing transverse momentum using the CMS detector}{236}{subsubsection.2.1.3.5}%
+\contentsline {subsubsection}{\numberline {2.A.3.6}TFM: Higgs production cross section at 13 TeV and prospects on BSM searches for the HL-LHC}{238}{subsubsection.2.1.3.6}%
+\contentsline {subsubsection}{\numberline {2.A.3.7}TFM: Mejora de la discriminación de señal y fondo en una búsqueda de materia oscura producida en asociación con un par de quarks top- antitop}{242}{subsubsection.2.1.3.7}%
+\contentsline {subsubsection}{\numberline {2.A.3.8}TFM: Desarrollo de un entorno de análisis estadístico en el contexto de la muografía aplicada a la industria}{246}{subsubsection.2.1.3.8}%
+\contentsline {subsection}{\numberline {2.A.4}Otros méritos relacionados con la actividad docente}{250}{subsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.A.4.1}Profesor en el CMS Data Analysis School in Pisa}{250}{subsubsection.2.1.4.1}%
+\contentsline {subsubsection}{\numberline {2.A.4.2}Profesor en el First Computing Challenges (COMCHA) school}{260}{subsubsection.2.1.4.2}%
+\contentsline {subsubsection}{\numberline {2.A.4.3}Participación en tribunales de trabajos de fin de grado}{262}{subsubsection.2.1.4.3}%
+\contentsline {subsubsection}{\numberline {2.A.4.4}Participación en tribunales de trabajos de fin de máster}{268}{subsubsection.2.1.4.4}%
+\contentsline {subsubsection}{\numberline {2.A.4.5}Participación en tribunales de tesis doctorales}{272}{subsubsection.2.1.4.5}%
+\contentsline {subsubsection}{\numberline {2.A.4.6}Tesis doctorales siendo dirigidas en la actualidad}{276}{subsubsection.2.1.4.6}%
+\contentsline {paragraph}{\numberline {2.A.4.6.1}Búsqueda de materia oscura en asociación con pares top-antitop o single top en el detector CMS con la luminosidad total del Run 2, Cedric Prieels}{276}{paragraph.2.1.4.6.1}%
+\contentsline {paragraph}{\numberline {2.A.4.6.2}Búsqueda de partículas con alto tiempo de vida en el detector CMS utilizando técnicas de inteligencia artificial, Celia Fernández}{278}{paragraph.2.1.4.6.2}%
+\contentsline {paragraph}{\numberline {2.A.4.6.3}Desarrollo de la tecnología de tomografia muónica en el contexto del mantenimiento de equipos industriales, Aitor Orio}{280}{paragraph.2.1.4.6.3}%
+\contentsline {subsubsection}{\numberline {2.A.4.7}Trabajos de Fin de Máster siendo dirigidos en la actualidad}{282}{subsubsection.2.1.4.7}%
+\contentsline {paragraph}{\numberline {2.A.4.7.1}Estudio de técnicas de computación cuántica para la resolución de problemas de optimización}{282}{paragraph.2.1.4.7.1}%
+\contentsline {paragraph}{\numberline {2.A.4.7.2}Técnicas de aprendizaje automático profundo para la asignación de momento a muones altamente energéticos en el experimento CMS del LHC}{284}{paragraph.2.1.4.7.2}%
+\contentsline {subsubsection}{\numberline {2.A.4.8}Divulgación}{286}{subsubsection.2.1.4.8}%
+\contentsline {paragraph}{\numberline {2.A.4.8.1}Café con Ciencia: Tomografía muónica: unha ollada ao interior da materia}{286}{paragraph.2.1.4.8.1}%
+\contentsline {paragraph}{\numberline {2.A.4.8.2}Tardes Con Ciencia: Un universo supersimétrico: explorando las fronteras de la física de partículas}{288}{paragraph.2.1.4.8.2}%
+\contentsline {paragraph}{\numberline {2.A.4.8.3}Expandiendo la Ciencia: siete charlas en instutos y colegios de Cantabria}{290}{paragraph.2.1.4.8.3}%
+\contentsline {paragraph}{\numberline {2.A.4.8.4}Participación en la noche de los investigadores durante los años 2017, 2018, y 2019}{292}{paragraph.2.1.4.8.4}%
+\contentsline {paragraph}{\numberline {2.A.4.8.5}Conferencia en el Ateneo de Santander: Un universo supersimétrico: explorando las fronteras de la física de partículas}{296}{paragraph.2.1.4.8.5}%
+\contentsline {paragraph}{\numberline {2.A.4.8.6}Pint of Science: Un universo extraño}{298}{paragraph.2.1.4.8.6}%
+\contentsline {paragraph}{\numberline {2.A.4.8.7}Las nubes de la Física, Aquae Talent Hub}{300}{paragraph.2.1.4.8.7}%
+\contentsline {paragraph}{\numberline {2.A.4.8.8}La gravedad de lo invisible, Aquae Campus 2018}{303}{paragraph.2.1.4.8.8}%
+\contentsline {section}{\numberline {2.B}Calidad de la actividad docente}{308}{section.2.2}%
+\contentsline {subsection}{\numberline {2.B.1}Evaluaciones positivas de su actividad}{308}{subsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.B.1.1}Evaluación de la calidad docente en la Universidad de Cantabria}{308}{subsubsection.2.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.B.1.2}Evaluación de la calidad docente en la ETH Zurich}{310}{subsubsection.2.2.1.2}%
+\contentsline {subsection}{\numberline {2.B.2}Material docente original y publicaciones docentes}{313}{subsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.B.2.1}Apuntés para la asignatura Estadística para la Ciencia de Datos del Máster de Ciencia de Datos de la Universidad de Cantabria y Universidad Internacional Menéndez Pelayo}{313}{subsubsection.2.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.B.2.2}Long Exercise for the CMS Data Analysis School in PISA: SUSY with leptons: Z+Jets+MET: The JZB analysis}{317}{subsubsection.2.2.2.2}%
+\contentsline {subsection}{\numberline {2.B.3}Participación en proyectos de innovación docente}{320}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.B.4}Otros méritos relacionados con calidad de la actividad docente}{320}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.C}Calidad de la formación docente}{320}{section.2.3}%
+\contentsline {subsection}{\numberline {2.C.1}Participación como ponente en congresos orientados a la formación docente universitaria}{320}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.C.2}Participación como asistente en congresos orientados a la formación docente universitaria}{320}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.C.3}Estancias en centros docentes}{320}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.C.4}Otros méritos relacionados con calidad de la formación docente}{320}{subsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.C.4.1}Curso de comunicación efectiva Universidad de Cantabria}{320}{subsubsection.2.3.4.1}%
+\contentsline {subsubsection}{\numberline {2.C.4.2}Curso de implementación práctica de estrategias de innovación docente}{322}{subsubsection.2.3.4.2}%
+\contentsline {chapter}{\numberline {3}Transferencia/Actividad Profesional}{325}{chapter.3}%
+\contentsline {section}{\numberline {3.A}Calidad de la transferencia de los resultados}{325}{section.3.1}%
+\contentsline {subsection}{\numberline {3.A.1}Patentes y productos con registro de propiedad intelectual}{325}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.A.2}Transferencia de conocimiento al sector productivo}{325}{subsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.A.2.1}Certificado expedido por el director ejecutivo de Muon Systems}{325}{subsubsection.3.1.2.1}%
+\contentsline {subsection}{\numberline {3.A.3}Contratos de transferencia o prestación de servicios profesionales con empresas, Administraciones públicas y otras instituciones suscritos al amparo del artículo 83 de la Ley orgánica 6/2001, de Universidades y Contratos Colaborativos.}{327}{subsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.A.3.1}Certificado de proyectos: DESARROLLO DE UN SISTEMA DE ADQUISICIÓN DE DATOS INTELIGENTE (DAQ) PARA LA CARACTERIZACIÓN, CORRECCIÓN Y OBTENCIÓN DE TRAZAS EN DETECTORES DE MUONES de la Universidad de Cantabria}{327}{subsubsection.3.1.3.1}%
+\contentsline {subsection}{\numberline {3.A.4}Otros méritos relacionados con la calidad de la transferencia de resultados}{329}{subsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.A.4.1}Carta de designación como participante en el meeting: Technical Meeting on Non-Destructive Testing Using Muon Radiography: Present Status and Emerging Applications}{329}{subsubsection.3.1.4.1}%
+\contentsline {subsubsection}{\numberline {3.A.4.2}E-mail que muestra mi participación como editor de la sección de aplicaciones industriales en el documento de la IAEA}{331}{subsubsection.3.1.4.2}%
+\contentsline {subsubsection}{\numberline {3.A.4.3}Certificado de concesión de contrato para realización de doctorado industrial}{335}{subsubsection.3.1.4.3}%
+\contentsline {section}{\numberline {3.B}Calidad y dedicación a actividades profesionales}{338}{section.3.2}%
+\contentsline {subsection}{\numberline {3.B.1}Puestos ocupados y dedicación}{338}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.B.2}Evaluaciones positivas de su actividad}{338}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.B.3}Otros méritos relacionados con la actividad profesional}{338}{subsection.3.2.3}%
+\contentsline {chapter}{\numberline {4}Formación académica}{339}{chapter.4}%
+\contentsline {section}{\numberline {4.A}Calidad de la formación predoctoral}{339}{section.4.1}%
+\contentsline {subsection}{\numberline {4.A.1}Titulación universitaria}{339}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.A.2}Tesis doctoral}{341}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.A.3}Otros títulos}{343}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.A.4}Becas}{343}{subsection.4.1.4}%
+\contentsline {subsubsection}{\numberline {4.A.4.1}Beca de Formación del Personal Universitario (FPU) (BECA RECHAZADA VOLUNTARIAMENTE POR HABER RECIBIDO DE FORMA SIMULTANEA OTRA MAS BENEFICIOSA)}{343}{subsubsection.4.1.4.1}%
+\contentsline {subsubsection}{\numberline {4.A.4.2}Becas predoctorales para el desarrollo de tesis doctorales en líneas de investigación con interés para el sector industrial.}{345}{subsubsection.4.1.4.2}%
+\contentsline {subsubsection}{\numberline {4.A.4.3}Beca de introducción a la investigación para alumnos de último curso de carrera}{353}{subsubsection.4.1.4.3}%
+\contentsline {subsubsection}{\numberline {4.A.4.4}Beca de Colaboración con grupos de Investigación.}{355}{subsubsection.4.1.4.4}%
+\contentsline {subsubsection}{\numberline {4.A.4.5}Beca de introducción a la investigación para alumnos de penúltimo curso de carrera.}{357}{subsubsection.4.1.4.5}%
+\contentsline {subsection}{\numberline {4.A.5}Premios}{359}{subsection.4.1.5}%
+\contentsline {subsubsection}{\numberline {4.A.5.1}Premio de la colaboración CMS Achievement Award}{359}{subsubsection.4.1.5.1}%
+\contentsline {subsubsection}{\numberline {4.A.5.2}Premio extraordinario de doctorado}{365}{subsubsection.4.1.5.2}%
+\contentsline {subsubsection}{\numberline {4.A.5.3}Premio extraordinario de fin de carrera}{368}{subsubsection.4.1.5.3}%
+\contentsline {subsubsection}{\numberline {4.A.5.4}Premio extraordinario de bachillerato unificado polivalente}{370}{subsubsection.4.1.5.4}%
+\contentsline {subsubsection}{\numberline {4.A.5.5}Mención de honor en la Olimpiada de Física Nacional}{372}{subsubsection.4.1.5.5}%
+\contentsline {subsubsection}{\numberline {4.A.5.6}Ganador de la Olimpiada de Física Local en Cantabria}{374}{subsubsection.4.1.5.6}%
+\contentsline {subsection}{\numberline {4.A.6}Otros méritos asociados a la formación académica}{376}{subsection.4.1.6}%
+\contentsline {subsubsection}{\numberline {4.A.6.1}Estancia en el Centro Europeo de Investigación de Partículas (CERN) Junio - Agosto 2006}{376}{subsubsection.4.1.6.1}%
+\contentsline {subsubsection}{\numberline {4.A.6.2}Estancia en el Centro Europeo de Investigación de Partículas (CERN) Junio - Agosto 2007}{378}{subsubsection.4.1.6.2}%
+\contentsline {subsubsection}{\numberline {4.A.6.3}Estancia en el Centro Europeo de Investigación de Partículas (CERN) Marzo 2008 - Octubre 2009}{380}{subsubsection.4.1.6.3}%
+\contentsline {subsubsection}{\numberline {4.A.6.4}Mención de calidad del programa de doctorado}{382}{subsubsection.4.1.6.4}%
+\contentsline {section}{\numberline {4.B}Calidad de la formación posdoctoral}{390}{section.4.2}%
+\contentsline {subsection}{\numberline {4.B.1}Becas posdoctorales}{390}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.B.2}Otros méritos asociados a la calidad de la formación}{390}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.C}Otros méritos asociados a la formación}{390}{section.4.3}%
+\contentsline {chapter}{\numberline {5}EXPERIENCIA EN GESTIÓN Y ADMINISTRACIÓN EDUCATIVA}{391}{chapter.5}%
+\contentsline {section}{\numberline {5.A}Desempeño de cargos unipersonales en las universidades u organismos públicos de investigación durante al menos un año}{391}{section.5.1}%
+\contentsline {section}{\numberline {5.B}Desempeño de puestos en el entorno educativo, científico o tecnológico dentro de la Administración General del Estado o de las Comunidades Autónomas durante, al menos, un año}{391}{section.5.2}%
+\contentsline {section}{\numberline {5.C}Otros méritos relacionados con la experiencia en gestión y administración}{391}{section.5.3}%
+\contentsline {subsection}{\numberline {5.C.1}Nombramiento como vice-director del departamento de física moderna de la Universidad de Cantabria}{391}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.C.2}Nombramiento como miembro de la Junta de Facultad de la facultad de ciencias de la Universidad de Cantabria}{393}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.C.3}Nombramiento como miembro de la comisión de calidad del grado de física en la Universidad de Cantabria}{395}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.C.4}Nombramiento Tribunal de Profesor Contratado Doctor}{397}{subsection.5.3.4}%
+\contentsline {subsection}{\numberline {5.C.5}Representante del Instituto de Física de Cantabria en el Institutional Board del MTD}{399}{subsection.5.3.5}%
+\contentsline {subsection}{\numberline {5.C.6}Representante de España en el Financial Board del MTD}{401}{subsection.5.3.6}%
